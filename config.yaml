@@ -1,0 +1,8 @@
+base:
+  TARGET: 9
+  DEVICE: cpu
+  MAX_LEN: 128
+  directoryPath: "attachment/"
+  BERT_PATH: "D:/Company Project/PretrainedWeight/bert-based-uncased"
+  MODEL_PATH: "D:/Company Project/TrainedWeight/BERTModelDeployment/model.bin"
+  
